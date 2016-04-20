@@ -14,7 +14,7 @@ body {
 
 /* Custom page header */
 .header {
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #2aa6ff;
 }
 /* Make the masthead heading the same height as the navigation */
 .header h3 {
@@ -42,6 +42,11 @@ body {
 }
 
 /* Main marketing message and sign up button */
+.container
+.jumbotron {
+  background-color: #2aa6ff;
+}
+
 .jumbotron {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
